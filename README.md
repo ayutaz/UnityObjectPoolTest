@@ -7,3 +7,6 @@ Unity 2021から標準に追加されたObject PoolとUniRxのObject Poolの動�
 # requirements
 
 * Unity 2021.3.4f1
+
+# references
+* [UniRxのObjectPoolを利用する](https://qiita.com/toRisouP/items/2a5fb86654525a4a8453)
