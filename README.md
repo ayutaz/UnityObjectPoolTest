@@ -22,4 +22,9 @@ Unity 2021から標準に追加されたObject PoolとUniRxのObject Poolの動�
 
 # references
 
+## UniRx ver
 * [UniRxのObjectPoolを利用する](https://qiita.com/toRisouP/items/2a5fb86654525a4a8453)
+
+## Unity ver
+* [【Unity】Unity公式のObjectPoolを使ってみる(内部実装も一部紹介)](https://www.hanachiru-blog.com/entry/2022/07/25/221600)
+* [Unity 2021から利用できるUnity標準のオブジェクトプールについて](https://blog.yucchiy.com/2021/04/objectpool-in-unity-2021/)
