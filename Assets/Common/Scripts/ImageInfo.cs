@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Util
+namespace Common
 {
     public class ImageInfo
     {
@@ -19,7 +19,7 @@ namespace Util
 
         public ImageInfo()
         {
-            Color = Util.RandomValue.RandomColor();
+            Color = RandomValue.RandomColor();
             MoveValue = RandomValue.RandomVector2Value(-1f, 1f);
             LifeTime = Random.Range(1f, 5f);
             MoveSpeed = Random.Range(1f, 5f);

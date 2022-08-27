@@ -1,8 +1,8 @@
 ﻿using System;
+using Common;
 using Cysharp.Threading.Tasks;
 using NaughtyAttributes;
 using UnityEngine;
-using Util;
 
 namespace _UniRxObjectPoolTest
 {

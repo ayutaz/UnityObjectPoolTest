@@ -1,9 +1,9 @@
 ﻿using _UniRxObjectPoolTest;
+using Common;
 using UnityEngine;
 using UnityEngine.Pool;
-using Util;
 
-namespace _UnityObjectPoolTest.Scripts
+namespace _UnityObjectPoolTest
 {
     public class UnityObjectCreateManager : MonoBehaviour
     {
