@@ -18,7 +18,6 @@ namespace _UniRxObjectPoolTest
             transform.position = Vector3.zero;
             moveDirection = Vector3.zero;
             _isMove = false;
-            // _spriteRenderer.color = Color.white;
         }
 
         private void Awake()
@@ -29,7 +28,7 @@ namespace _UniRxObjectPoolTest
         private void Update()
         {
             if (!_isMove) return;
-            transform.Translate(moveDirection * Time.deltaTime * _moveSpeed);
+            transform.Translate(moveDirection * (Time.deltaTime * _moveSpeed));
         }
 
         public UniTask Move(ImageInfo imageInfo)
