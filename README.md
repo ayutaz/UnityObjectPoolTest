@@ -12,8 +12,6 @@ Unity 2021から標準に追加されたObject PoolとUniRxのObject Poolの動�
 
 # [Demo](https://ayutaz.github.io/UnityObjectPoolTest/WebGL/WebGL/)
 
-## UniRxのObject Poolを使ったデモ
-
 ![](Docs/UniRxObjectPoolDemo.gif)
 
 # requirements
