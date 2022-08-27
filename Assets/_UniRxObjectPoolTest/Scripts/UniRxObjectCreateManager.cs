@@ -3,7 +3,7 @@ using Util;
 
 namespace _UniRxObjectPoolTest
 {
-    public class ObjectCreateManager : MonoBehaviour
+    public class UniRxObjectCreateManager : MonoBehaviour
     {
         [SerializeField] private ImageEffect imageEffect;
         private ImagePool _imagePool;
